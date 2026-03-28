@@ -64,16 +64,24 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 
 ---
- Results to Record
+## Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
-## Output
-<img width="1919" height="946" alt="Screenshot 2026-03-18 191345" src="https://github.com/user-attachments/assets/10485120-250d-40a9-aaec-9daf69ba98ef" />
+---
 
+## Block Diagram
+
+<img width="786" height="441" alt="image" src="https://github.com/user-attachments/assets/18b1cc68-dd40-4bed-bc0c-c6103b0d85b6" />
+
+---
+
+## Graph
+
+<img width="1735" height="924" alt="image" src="https://github.com/user-attachments/assets/5d4deb2b-5b26-4262-82cd-bdf2520c5dbd" />
 
 ---
 
 ## Result
-Thus  the results predicted by the linear system model of an optical fiber with the results of simulation is compared.
 
----
+Thus, Gaussian Pulse Propogation has been simuated and the results are verified successfully.
+
